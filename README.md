@@ -1,4 +1,4 @@
-# Verilog Digital Design Projects Repository
+# FSM Based Digital Systems
 
 ## Overview
 This repository contains **15 Verilog HDL projects** covering digital design concepts ranging from finite state machines and arithmetic units to processor-like architectures and real-time systems.
