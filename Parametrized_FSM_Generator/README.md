@@ -96,7 +96,7 @@ Thus:
 ### Compile
 
 ```bash
-iverilog -o para_fsm para_FSM.v para_FSM_tb.v
+iverilog -o para_fsm parametrized_FSM.v para_FSM_tb.v
 ```
 
 ### Run
