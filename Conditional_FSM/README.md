@@ -1,4 +1,4 @@
-# Project 09: Conditional FSM
+# Conditional FSM
 
 ## Overview
 This project implements a **conditional finite state machine (FSM) based ALU system** where state transitions depend on ALU status flags.
