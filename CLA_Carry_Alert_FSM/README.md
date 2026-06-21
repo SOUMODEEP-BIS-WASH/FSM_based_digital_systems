@@ -1,4 +1,4 @@
-# Project 11: CLA Carry Alert FSM
+# CLA Carry Alert FSM
 
 ## Overview
 This project combines a **4-bit Carry Lookahead Adder (CLA)** with a **Finite State Machine (FSM)** to detect and alert whenever a carry-out occurs.
