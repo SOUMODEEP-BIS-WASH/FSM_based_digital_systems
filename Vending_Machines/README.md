@@ -1,4 +1,4 @@
-# Project 12: Vending Machines
+# Vending Machines
 
 ## Overview
 This project implements multiple **Finite State Machine (FSM) based vending machine designs in Verilog**, starting from a simple single-coin machine to more advanced multi-item vending systems with selection and refund mechanisms.
