@@ -1,4 +1,4 @@
-# Project 10: Dual FSM Handshake
+# Dual FSM Handshake
 
 ## Overview
 This project implements a **dual FSM handshake mechanism** for coordinated data transfer between a data controller and an ALU controller.
